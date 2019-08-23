@@ -1,0 +1,9 @@
+{
+    "apiKey": "AIzaSyD0IAFUkGsJziR4HRUmis_BIamJqaOBgdg",
+    "authDomain": "agendei.firebaseapp.com",
+    "databaseURL": "https://agendei.firebaseio.com",
+    "projectId": "agendei",
+    "storageBucket": "",
+    "messagingSenderId": "48068810003",
+    "appId": "1:48068810003:web:60d37ea1eecf361c"
+  }
